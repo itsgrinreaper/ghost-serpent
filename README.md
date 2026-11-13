@@ -1,5 +1,7 @@
 # 🐐 Ghost Serpent
 
+![Ghost Serpent cover art — the black goat leads the ghost procession](thumbnail.jpg)
+
 **The black goat eats souls. The ghosts queue behind. Do not bite your own haunting.**
 
 A snake game inside a pentagram courtyard, from the gothic world of **Grin Reaper**. Every soul the goat eats joins the procession as a ghost — which is lovely, until the procession is long enough to eat itself.
@@ -7,6 +9,10 @@ A snake game inside a pentagram courtyard, from the gothic world of **Grin Reape
 ## ▶ Play it live
 
 **[Play Ghost Serpent](https://itsgrinreaper.github.io/ghost-serpent/)** — free, in your browser.
+
+## 📸 Preview
+
+![Ghost Serpent gameplay — the pentagram courtyard](screenshot.png)
 
 ## How to play
 
